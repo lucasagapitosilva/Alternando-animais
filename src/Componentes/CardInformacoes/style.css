@@ -1,0 +1,19 @@
+.card-info {
+    margin: 40px auto;
+    border: 4px solid #000;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .card-info p {
+    padding: 8px 0;
+    font-size: 0.9rem; 
+  }
+  
+  h3 {
+    font-size: 1.2rem
+  }
